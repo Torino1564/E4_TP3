@@ -1,0 +1,47 @@
+Capacitores:
+C6: Electrolítico 47u 450V
+C7: SMD Ceramico 1u 500V
+C5: 2x Paralelo SMD Ceramico 1n 1kV
+C8: SMD Ceramico 100p 50V
+C9: SMD Ceramico 22n 50V
+C2: SMD Ceramico 10n 50V
+C1: SMD Ceramico 100n 50V
+C3: SMD Ceramico 47p 50V
+C4: SMD Tantalio 22u 50V
+Cdes: SMD Ceramico 10n 50V
+Co1, Co2, Co3, Co4, Co5, Co6, CoAux: SMD Ceramico 10u 50V
+
+Resistor TH:
+R8: 68k 2W
+R9: 570 3W
+
+Resistor SMD:
+RG: SMD 22
+Rsense: SMD 0.67
+RiL: SMD 0 / SMD 0.1
+Rt: SMD 47k
+R3: SMD 100k
+R5: SMD 390k
+R1: SMD 22k
+R4: SMD 1k
+R6: SMD 39
+
+
+R2: Trimmer 200k
+
+MOS: SiHD2N80AE
+IC: UC3845
+
+Diodos:
+DZ6: DZ15V
+Ds1, D10, D8, D11, D9: ES1G
+D1: ES3B
+D2, D3, D4, D5: ES1B
+
+Transformador: 750342585 Wurth Electronics
+
+Borneras: 6x Borneras Dobles
+
+Pines sócalo macho-hembra
+
+ 
