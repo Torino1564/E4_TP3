@@ -1,7 +1,7 @@
 Capacitores:
 C6: Electrolítico 47u 450V
-C7: SMD Ceramico 1u 500V
-C5: 2x Paralelo SMD Ceramico 1n 1kV
+C7: SMD Ceramico 1u 500V 4587-C2220X105K501TCT-ND
+C5: 2x Paralelo SMD Ceramico 1n 1kV C1206C102KDRAC
 C8: SMD Ceramico 100p 50V
 C9: SMD Ceramico 22n 50V
 C2: SMD Ceramico 10n 50V
@@ -9,7 +9,7 @@ C1: SMD Ceramico 100n 50V
 C3: SMD Ceramico 47p 50V
 C4: SMD Tantalio 22u 50V
 Cdes: SMD Ceramico 10n 50V
-Co1, Co2, Co3, Co4, Co5, Co6, CoAux: SMD Ceramico 10u 50V
+Co1, Co2, Co3, Co4, Co5, Co6, CoAux: SMD Ceramico 10u 50V GCM32EC71H106KA03
 
 Resistor TH:
 R8: 68k 2W
@@ -21,13 +21,13 @@ Rsense: SMD 0.67
 RiL: SMD 0 / SMD 0.1
 Rt: SMD 47k
 R3: SMD 100k
-R5: SMD 390k
+R5: SMD 680k (Corrección, en el esquemático figura de 390k. 680k es el valor correcto. No afecta al funcionamiento del circuito, solo a la eficiencia y al tiempo de encendido del convertidor)
 R1: SMD 22k
 R4: SMD 1k
 R6: SMD 39
 
 
-R2: Trimmer 200k
+R2: Trimmer 200k (Ajuste fino de la tension de salida)
 
 MOS: SiHD2N80AE
 IC: UC3845
